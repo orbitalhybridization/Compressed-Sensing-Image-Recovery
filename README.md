@@ -1,4 +1,4 @@
-# Image-Recovery-ML
+# Compressed Sensing Image Recovery
 Machine Learning class project, which use LASSO regression with a DCT-inspired design to recover corrupted images.
 
 This project provides a practical (and interesting!) application of regularized sparse regression. 
